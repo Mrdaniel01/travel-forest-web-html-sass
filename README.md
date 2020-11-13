@@ -12,9 +12,7 @@ Run npm i for install all dependencies
 
 ## Implementing the project 🔧
 
-Run: npm run start command to star the project, It will open a new window in your browser at localhost:3000
-
-Run: npm run start-watch if the page does not reload when saving changes,
+N/A
 
 ## Deploy 📦
 

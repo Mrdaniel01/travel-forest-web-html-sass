@@ -39,6 +39,7 @@ $bg-color: rgba(227, 227, 227, 0.08);
   display: inline-block;
   opacity: 0;
   transition: all 1s .5s;
+  z-index: 12;
 
   nav {
     display: inline-block;
@@ -92,7 +93,7 @@ $bg-color: rgba(227, 227, 227, 0.08);
 #register-side-bar {
   $side-bar-trans-time: .6s;
   $side-bar-trans-delay: 1s;
-  
+
   width: $empty-width + $visible-width + $form-width;
   display: flex;
   position: absolute;
@@ -110,8 +111,9 @@ $bg-color: rgba(227, 227, 227, 0.08);
     background-color: $bg-color;
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: flex-start;
-    color: #3b3b3b;
+    color: #b3b3b3;
     font-size: px-to-rem(18px);
     transition: opacity 1.4s;
 

@@ -1,6 +1,6 @@
 # Travel Forest
 
-an HTML and SASS Page
+An HTML and SASS Page (No responsive)
 
 ## Starting with 🚀
 
@@ -16,7 +16,7 @@ N/A
 
 ## Deploy 📦
 
-* No yet
+* https://mrdaniel01.github.io/travel-forest-web-html-sass
 
 ## Built with 🛠️
 
